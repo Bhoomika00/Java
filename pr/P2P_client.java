@@ -1,3 +1,4 @@
+/* peer to peer chat or one to one chat*/
 package com.pr;
 
 import java.net.*;
